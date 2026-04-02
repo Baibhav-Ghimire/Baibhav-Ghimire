@@ -37,7 +37,7 @@ I believe the best way to learn is to build. Every project here represents a con
 | [Email Analyzer](https://github.com/Baibhav-Ghimire/Email-analyzer-using-stremlit) | AI-powered sentiment analysis and phishing detection | Python, Streamlit, TextBlob |
 | [Music Analyzer](https://github.com/Baibhav-Ghimire/Music-analyzer-) | Analyses audio for tempo, mood, key · exports to CSV | Python, librosa, matplotlib |
 | [Self-learning Chatbot](https://github.com/Baibhav-Ghimire/Chat-bot-) | CLI + GUI chatbot that learns from users | Python, Tkinter, difflib |
-| [To-do List App](https://github.com/Baibhav-Ghimire/Chat-bot-) | Task manager with persistent storage | Python, Streamlit |
+| [To-do List App](https://github.com/Baibhav-Ghimire/Todolist_using-streamlit) | Task manager with persistent storage | Python, Streamlit |
 
 ---
 

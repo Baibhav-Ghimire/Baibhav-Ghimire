@@ -34,7 +34,7 @@ I believe the best way to learn is to build. Every project here represents a con
 
 | Project | Description | Stack |
 |---|---|---|
-| [Email Analyzer](https://github.com/baibhav-ghimire/email-analyzer) | AI-powered sentiment analysis and phishing detection | Python, Streamlit, TextBlob |
+| [Email Analyzer](https://github.com/Baibhav-Ghimire/Email-analyzer-using-stremlit) | AI-powered sentiment analysis and phishing detection | Python, Streamlit, TextBlob |
 | [Music Analyzer](https://github.com/baibhav-ghimire/music-analyzer) | Analyses audio for tempo, mood, key · exports to CSV | Python, librosa, matplotlib |
 | [Self-learning Chatbot](https://github.com/baibhav-ghimire/python-chatbot) | CLI + GUI chatbot that learns from users | Python, Tkinter, difflib |
 | [To-do List App](https://github.com/baibhav-ghimire/todolist-streamlit) | Task manager with persistent storage | Python, Streamlit |
@@ -43,7 +43,7 @@ I believe the best way to learn is to build. Every project here represents a con
 
 ## 🧠 A bit about me
 
-I'm a first-generation tech builder from Kathmandu. I chose the Coventry-affiliated program deliberately — the international curriculum pushes me to write better, think more critically, and build things that go beyond passing exams.
+I'm a first-generation tech builder from Kathmandu. I chose the Coventry affiliated program deliberately the international curriculum pushes me to write better, think more critically, and build things that go beyond passing exams.
 
 I'm drawn to AI not because it's trending, but because I want to understand how it actually works and eventually build tools that are useful to people around me.
 

@@ -38,7 +38,8 @@ I believe the best way to learn is to build. Every project here represents a con
 | [Music Analyzer](https://github.com/Baibhav-Ghimire/Music-analyzer-) | Analyses audio for tempo, mood, key · exports to CSV | Python, librosa, matplotlib |
 | [Self-learning Chatbot](https://github.com/Baibhav-Ghimire/Chat-bot-) | CLI + GUI chatbot that learns from users | Python, Tkinter, difflib |
 | [To-do List App](https://github.com/Baibhav-Ghimire/Todolist_using-streamlit) | Task manager with persistent storage | Python, Streamlit |
-
+|[VisageIQ](https://github.com/Baibhav-Ghimire/VisageIQ-AI)|Face Recognition • Mood Detection • Attendance System with live camera, registration, and database management|Python, Streamlit, OpenCV, face-recognition|
+|[Face-Analyzer]|(https://github.com/Baibhav-Ghimire/Face-Analyzer)|AI-powered real-time face analysis system with face detection, recognition, emotion/mood detection, and attendance tracking using hybrid computer vision pipeline|Python, OpenCV, face-recognition, Streaml|
 ---
 
 ## 🧠 A bit about me

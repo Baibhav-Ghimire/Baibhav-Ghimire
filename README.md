@@ -42,7 +42,7 @@ baibhav = {
 }
 ```
 
-I'm a CS and AI student in the early stages of a deliberate career — not waiting for the degree to end before building real things. I work on projects beyond what the syllabus requires, keep my repositories honest, and stay open to where the field takes me.
+I'm a CS and AI student in the early stages of a deliberate career not waiting for the degree to end before building real things. I work on projects beyond what the syllabus requires, keep my repositories honest, and stay open to where the field takes me.
 
 No specialisation yet. Plenty of direction. Fully convinced I have what it takes to get there.
 
